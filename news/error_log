@@ -1,0 +1,227 @@
+[06-Apr-2006 20:04:43] PHP Warning:  main(include/include.php): failed to open stream: No such file or directory in /home/sense/public_html/news/entry.php on line 5
+[06-Apr-2006 20:04:43] PHP Warning:  main(include/include.php): failed to open stream: No such file or directory in /home/sense/public_html/news/entry.php on line 5
+[06-Apr-2006 20:04:43] PHP Warning:  main(include/include.php): failed to open stream: No such file or directory in /home/sense/public_html/news/entry.php on line 5
+[06-Apr-2006 20:04:43] PHP Fatal error:  main(): Failed opening required 'include/include.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sense/public_html/news/entry.php on line 5
+[07-Apr-2006 21:19:06] PHP Parse error:  parse error, unexpected '<' in /home/sense/public_html/news/entry.php on line 26
+[07-Apr-2006 21:35:53] PHP Parse error:  parse error, unexpected T_VARIABLE in /home/sense/public_html/news/entry.php on line 58
+[08-Apr-2006 03:52:31] PHP Parse error:  parse error, unexpected '}' in /home/sense/public_html/news/entry.php on line 80
+[15-Apr-2006 02:33:57] PHP Fatal error:  Call to undefined function:  stripos() in /home/sense/public_html/news/comment.php on line 8
+[15-Apr-2006 02:35:12] PHP Warning:  Wrong parameter count for strpos() in /home/sense/public_html/news/comment.php on line 8
+[15-Apr-2006 02:35:12] PHP Warning:  Wrong parameter count for strpos() in /home/sense/public_html/news/comment.php on line 8
+[15-Apr-2006 02:35:12] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sense/public_html/news/comment.php:8) in /home/sense/public_html/news/comment.php on line 56
+[13-May-2006 09:13:18] PHP Fatal error:  Call to a member function on a non-object in /home/sense/public_html/include/include.php on line 158
+[14-May-2006 02:54:50] PHP Parse error:  parse error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/sense/public_html/include/options.php on line 48
+[14-May-2006 22:29:00] PHP Parse error:  parse error, unexpected T_ELSEIF in /home/sense/public_html/news/comment.php on line 32
+[17-May-2006 20:55:15] PHP Parse error:  parse error, unexpected '}' in /home/sense/public_html/news/comment.php on line 151
+[17-May-2006 20:56:49] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home/sense/public_html/news/comment.php on line 163
+[17-May-2006 20:59:47] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sense/public_html/news/comment.php:144) in /home/sense/public_html/news/comment.php on line 181
+[17-May-2006 21:01:01] PHP Parse error:  parse error, unexpected ')', expecting ';' in /home/sense/public_html/news/comment.php on line 142
+[17-May-2006 21:01:50] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sense/public_html/news/comment.php:144) in /home/sense/public_html/news/comment.php on line 185
+[17-May-2006 21:02:08] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sense/public_html/news/comment.php:144) in /home/sense/public_html/news/comment.php on line 185
+[17-May-2006 21:03:04] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sense/public_html/news/comment.php:144) in /home/sense/public_html/news/comment.php on line 179
+[17-May-2006 21:03:39] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sense/public_html/news/comment.php:144) in /home/sense/public_html/news/comment.php on line 179
+[17-May-2006 21:10:50] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sense/public_html/news/comment.php:144) in /home/sense/public_html/news/comment.php on line 179
+[17-May-2006 21:14:20] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sense/public_html/news/comment.php:144) in /home/sense/public_html/news/comment.php on line 179
+[18-May-2006 20:39:13] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sense/public_html/news/comment.php:144) in /home/sense/public_html/news/comment.php on line 179
+[25-May-2006 20:33:12] PHP Warning:  Missing argument 1 for error_404() in /home/sense/public_html/include/include.php on line 220
+[25-May-2006 21:06:41] PHP Parse error:  parse error, unexpected ';' in /home/sense/public_html/include/include.php on line 236
+[25-May-2006 21:06:57] PHP Parse error:  parse error, unexpected '}' in /home/sense/public_html/include/include.php on line 235
+[25-May-2006 21:17:35] PHP Fatal error:  Call to undefined function:  error_404() in /home/sense/public_html/news/entry.php on line 126
+[26-May-2006 02:04:23] PHP Fatal error:  Call to undefined function:  standard_error() in /home/sense/public_html/news/comment.php on line 191
+[30-May-2006 19:06:39] PHP Parse error:  parse error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/sense/public_html/include/options.php on line 58
+[08-Jun-2006 21:36:02] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 257
+[08-Jun-2006 21:40:22] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 257
+[17-Apr-2007 16:40:47] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[18-Apr-2007 06:19:04] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[18-Apr-2007 06:20:25] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[18-Apr-2007 06:22:48] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[18-Apr-2007 07:13:19] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[18-Apr-2007 07:15:32] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[18-Apr-2007 07:20:48] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[18-Apr-2007 08:10:34] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[18-Apr-2007 08:14:10] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[18-Apr-2007 08:14:18] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[18-Apr-2007 08:17:12] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[18-Apr-2007 09:02:24] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[18-Apr-2007 09:06:45] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[18-Apr-2007 09:08:45] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[18-Apr-2007 09:15:33] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[18-Apr-2007 09:17:59] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[18-Apr-2007 13:22:58] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[18-Apr-2007 13:24:45] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[18-Apr-2007 16:41:46] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[18-Apr-2007 16:47:38] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[18-Apr-2007 17:40:48] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[18-Apr-2007 17:43:50] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[18-Apr-2007 18:22:11] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[18-Apr-2007 20:00:37] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[18-Apr-2007 20:08:31] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[18-Apr-2007 20:20:48] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[18-Apr-2007 21:09:45] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[18-Apr-2007 22:15:39] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[18-Apr-2007 22:27:17] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[19-Apr-2007 00:16:42] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[19-Apr-2007 00:45:26] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[19-Apr-2007 06:46:28] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[21-Apr-2007 09:38:08] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[21-Apr-2007 13:23:34] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[22-Apr-2007 09:33:22] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[22-Apr-2007 09:33:56] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[22-Apr-2007 10:10:57] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[22-Apr-2007 16:04:07] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[22-Apr-2007 16:04:42] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[22-Apr-2007 16:07:54] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[22-Apr-2007 17:06:35] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[22-Apr-2007 22:12:04] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[22-Apr-2007 22:21:14] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[22-Apr-2007 23:25:54] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[23-Apr-2007 01:04:55] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[23-Apr-2007 01:08:24] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[23-Apr-2007 01:26:05] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[23-Apr-2007 02:12:21] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[23-Apr-2007 03:28:27] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[23-Apr-2007 03:46:22] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[23-Apr-2007 04:10:42] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[23-Apr-2007 04:44:47] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[23-Apr-2007 06:54:17] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[23-Apr-2007 06:54:27] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[23-Apr-2007 06:54:31] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[23-Apr-2007 06:54:43] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[23-Apr-2007 16:44:31] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[23-Apr-2007 21:49:40] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[24-Apr-2007 00:51:42] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[24-Apr-2007 05:38:48] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[24-Apr-2007 10:14:56] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[24-Apr-2007 13:13:52] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[24-Apr-2007 23:14:16] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[25-Apr-2007 02:41:28] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[25-Apr-2007 10:27:47] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[25-Apr-2007 18:54:42] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[26-Apr-2007 01:36:51] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[26-Apr-2007 04:01:44] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[26-Apr-2007 04:59:40] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[26-Apr-2007 06:24:03] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[26-Apr-2007 08:17:01] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[26-Apr-2007 13:13:12] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[26-Apr-2007 15:35:07] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[26-Apr-2007 17:25:23] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[28-Apr-2007 17:30:46] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[30-Apr-2007 14:40:29] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[30-Apr-2007 14:48:09] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[30-Apr-2007 18:53:13] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[30-Apr-2007 19:00:30] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[30-Apr-2007 19:00:31] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[30-Apr-2007 21:29:00] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[30-Apr-2007 22:57:00] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[01-May-2007 00:01:42] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[01-May-2007 01:36:33] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[01-May-2007 03:16:36] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[01-May-2007 08:14:40] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[01-May-2007 08:14:40] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[01-May-2007 08:43:10] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[01-May-2007 23:43:43] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[01-May-2007 23:43:43] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[02-May-2007 04:08:00] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[02-May-2007 04:30:08] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[02-May-2007 06:50:15] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[02-May-2007 12:39:43] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[02-May-2007 14:13:45] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[02-May-2007 14:14:42] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[02-May-2007 16:03:50] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[02-May-2007 16:29:35] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[02-May-2007 23:25:06] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[02-May-2007 23:25:06] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[02-May-2007 23:25:06] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[02-May-2007 23:35:51] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[02-May-2007 23:48:12] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[02-May-2007 23:54:31] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[06-May-2007 09:14:08] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[06-May-2007 20:11:26] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[07-May-2007 07:29:51] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[08-May-2007 21:53:48] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[10-May-2007 01:15:31] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[11-May-2007 06:16:54] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 401
+[28-May-2007 08:31:55] PHP Warning:  Illegal offset type in /home/sense/public_html/include/include.php on line 302
+[28-May-2007 08:32:27] PHP Warning:  Illegal offset type in /home/sense/public_html/include/include.php on line 302
+[28-May-2007 08:34:23] PHP Warning:  Illegal offset type in /home/sense/public_html/include/include.php on line 302
+[28-May-2007 08:35:52] PHP Warning:  Illegal offset type in /home/sense/public_html/include/include.php on line 302
+[28-May-2007 08:35:56] PHP Warning:  Illegal offset type in /home/sense/public_html/include/include.php on line 302
+[28-May-2007 09:49:38] PHP Parse error:  syntax error, unexpected ')' in /home/sense/public_html/news/comment.php on line 116
+[28-May-2007 09:50:04] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sense/public_html/news/comment.php:117) in /home/sense/public_html/news/comment.php on line 161
+[09-Jun-2007 00:55:58] PHP Parse error:  syntax error, unexpected T_STRING in /home/sense/public_html/include/include.php on line 155
+[09-Jun-2007 00:56:15] PHP Parse error:  syntax error, unexpected T_STRING in /home/sense/public_html/include/include.php on line 155
+[10-Jun-2007 09:11:48] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[10-Jun-2007 09:12:52] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[12-Jun-2007 01:58:03] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[13-Jun-2007 00:05:29] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[13-Jun-2007 00:34:25] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[13-Jun-2007 16:50:34] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[14-Jun-2007 01:27:08] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[14-Jun-2007 05:06:20] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[14-Jun-2007 22:17:20] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[24-Jun-2007 16:00:51] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[24-Jun-2007 18:30:53] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[24-Jun-2007 20:17:45] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[24-Jun-2007 22:30:30] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[25-Jun-2007 00:22:57] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[25-Jun-2007 02:39:45] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[25-Jun-2007 04:31:41] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[25-Jun-2007 06:52:47] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[25-Jun-2007 08:48:45] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[25-Jun-2007 12:22:04] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[26-Dec-2007 13:31:18] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[26-Dec-2007 16:15:09] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[26-Dec-2007 17:58:53] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[26-Dec-2007 20:23:38] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[26-Dec-2007 22:06:51] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[27-Dec-2007 00:27:38] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[27-Dec-2007 02:08:58] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[27-Dec-2007 04:31:26] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[27-Dec-2007 06:13:29] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[27-Dec-2007 08:34:38] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[27-Dec-2007 11:03:42] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[01-Mar-2008 00:08:15] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[01-Mar-2008 02:52:55] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[01-Mar-2008 05:44:04] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[01-Mar-2008 08:34:40] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[01-Mar-2008 11:31:13] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[01-Mar-2008 14:40:55] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[01-Mar-2008 17:57:33] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[02-Mar-2008 00:42:01] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[02-Mar-2008 02:06:17] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[02-Mar-2008 04:17:22] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[02-Mar-2008 05:46:04] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[02-Mar-2008 07:55:04] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[02-Mar-2008 09:25:23] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[02-Mar-2008 11:46:50] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[02-Mar-2008 13:25:20] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[02-Mar-2008 16:01:00] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[02-Mar-2008 17:40:03] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[02-Mar-2008 20:12:40] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[02-Mar-2008 21:50:52] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[27-Jul-2008 19:11:52] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[29-Jul-2008 13:06:43] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[30-Jul-2008 00:01:39] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[30-Jul-2008 08:39:37] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[02-Aug-2008 17:54:52] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[03-Aug-2008 02:34:21] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[03-Aug-2008 15:39:53] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[04-Aug-2008 00:46:53] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[08-Aug-2008 11:51:20] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[09-Aug-2008 00:40:46] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[09-Aug-2008 18:31:46] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[10-Aug-2008 01:15:54] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[10-Aug-2008 05:17:54] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[11-Aug-2008 12:27:32] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[13-Aug-2008 15:04:01] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[13-Aug-2008 18:30:57] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[21-Aug-2008 17:01:22] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[22-Aug-2008 18:47:40] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[23-Aug-2008 12:46:53] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[25-Aug-2008 10:31:40] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[25-Aug-2008 14:34:52] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[23-Nov-2008 05:18:21] PHP Warning:  Missing argument 2 for standard_error() in /home/sense/public_html/include/include.php on line 405
+[03-Feb-2010 06:29:09] PHP Warning:  Missing argument 2 for standard_error(), called in /home/sense/public_html/news/comment.php on line 106 and defined in /home/sense/public_html/include/include.php on line 405
+[07-Apr-2010 05:58:20] PHP Warning:  Missing argument 2 for standard_error(), called in /home/sense/public_html/news/comment.php on line 106 and defined in /home/sense/public_html/include/include.php on line 405
+[21-Apr-2010 18:24:01] PHP Warning:  Missing argument 2 for standard_error(), called in /home/sense/public_html/news/comment.php on line 106 and defined in /home/sense/public_html/include/include.php on line 405
+[29-Oct-2010 19:06:32] PHP Warning:  Missing argument 2 for standard_error(), called in /home/sense/public_html/news/comment.php on line 106 and defined in /home/sense/public_html/include/include.php on line 405

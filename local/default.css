@@ -1,0 +1,456 @@
+/*
+	Senseless Political Ramblings
+	Default Site CSS
+	Copyright © 2006 Senseless Political Ramblings
+	The copying or use of this stylesheet or its attributes
+	is forbidden without written permission.
+*/
+
+body {
+	background: #194f5f URL(/images/default-bg.jpg);
+	color: white;
+	font: 0.8em Verdana, Arial, Helvetica;
+	padding: 0px;
+	margin: 0px;
+}
+
+img {
+	border: none;
+}
+
+.noborder {
+	border: none;
+	text-decoration: none;
+}
+
+/* ################################################## */
+
+a:link {
+	background-color: transparent;
+	color: #205b9e;
+	text-decoration: underline;
+}
+
+a:visited {
+	background-color: transparent;
+	color: #2e3b4a;
+	text-decoration: underline;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+a:active {
+	background-color: transparent;
+	color: #ff0000;
+	text-decoration: none;
+}
+
+a:link.navitem, a:visited.navitem, a:hover.navitem {
+	background-color: transparent;
+	color: #f2f2ff;
+	text-decoration: none;
+}
+
+a:active.navitem {
+	background-color: #000030;
+	color: #f2f2ff;
+	text-decoration: none;
+}
+
+#disclaimer a {
+	background-color: transparent;
+	color: white;
+	text-decoration: underline;
+}
+
+a.indistinct {
+	/* The class name for this is a filthy lie. It
+	is not actually "indistinct". */
+	background-color: transparent;
+	color: black;
+	text-decoration: underline;
+}
+
+a.totalindistinct {
+	/* Here we go. THIS is indistict. */
+	background-color: transparent;
+	color: black;
+	text-decoration: none;
+}
+
+/* ################################################## */
+
+h1.date {
+	font: 22pt Verdana, Arial, Helvetica;
+	font-weight: bold;
+	color: #2060a8;
+	margin-top: 3pt;
+	padding-top: 2pt;
+	margin-bottom: 2pt;
+}
+
+h2.section, h2.error {
+	text-align: center;
+	padding-top: 2pt;
+	margin-top: 1pt;
+}
+
+h2.title {
+	font: 16pt Verdana, Arial, Helvetica;
+	font-weight: bold;
+	padding-bottom: 0pt;
+	margin-bottom: 1pt;
+}
+
+#linksbox h4, #recentupdates h3 {
+	background-color: #236573;
+	color: white;
+	font: 8pt Verdana, Arial, Helvetica;
+	font-weight: bold;
+	text-align: center;
+	padding: 2.5pt;
+	margin-bottom: 2pt;
+	margin-top: 0pt;
+}
+
+p.outercenter {
+	font: 8pt Verdana, Arial, Helvetica;
+	text-align: center;
+}
+
+#disclaimer {
+	font: 8pt Verdana, Arial, Helvetica;
+	text-align: center;
+	margin-left: 3%;
+	margin-right: 3%;
+	padding-top: 2pt;
+	padding-bottom: 4pt;
+	clear: both;
+}
+
+#linksbox {
+	background-color: white;
+	color: black;
+	font: 8pt Verdana, Arial, Helvetica;
+	margin-left: 1.75%;
+	padding: 0px;
+	width: 14%;
+	float: left;
+	border-style: solid;
+	border-color: black;
+	border-width: 1px 0px 1px 1px;
+	clear: left;
+	display: inline;
+	padding-bottom: 5pt;
+}
+
+#error {
+	background-color: white;
+	color: black;
+	padding: 6px;
+	margin-left: 15%;
+	margin-right: 15%;
+	margin-top: 15px;
+	border: solid 2px black;
+}
+
+#main {
+	background-color: white;
+	color: black;
+	padding: 8pt;
+	border: solid 2px black;
+	margin-right: 1.75%;
+	min-height: 180px;
+	float: left;
+	display: inline;
+	clear: right;
+	width: 79.5%;
+}
+
+#leftlogo {
+	background: URL(/images/default-logo-l.png) no-repeat;
+	width: 410px;
+	height: 115px;
+	padding-bottom: 1pt;
+	float: left;
+	clear: none;
+}
+
+#rightlogo {
+	background: URL(/images/default-logo-r.png) no-repeat;
+	width: 130px;
+	height: 115px;
+	padding-bottom: 1pt;
+	float: right;
+	clear: right;
+}
+
+#lefttop {
+	font-weight: bold;
+	font: 8pt Verdana, Arial, Helvetica;
+}
+
+#righttop {
+	font-weight: bold;
+	font: 8pt Verdana, Arial, Helvetica;
+	float: right;
+	padding-left: 1%;
+}
+
+div.split {
+	background-color: #f0f0f0;
+	color: black;
+	font: 8pt Verdana, Arial, Helvetica;
+	text-align: center;
+	clear: both;
+	padding-top: 1px;
+	padding-bottom: 4px;
+	border-top: solid 1px #101010;
+	border-bottom: solid 1px #101010;
+}
+
+.l {
+	display: compact;
+	float: left;
+	margin-right: 0.1in;
+}
+.r {
+	display: inline;
+	float: right;
+	margin-left: 0.1in;
+}
+
+div.commentheading {
+	background-color: #f0f0f0;
+	color: black;
+	font: 0.9em Verdana, Arial, Helvetica;
+	padding: 3pt;
+	border-top: solid 1px black;
+	border-left: solid 1px black;
+	border-right: solid 1px black;
+	margin-left: 15%;
+	margin-right: 15%;
+	margin-top: 15px;
+}
+
+div.comment {
+	font: 0.85em Verdana, Arial, Helvetica;
+	padding: 3.5pt;
+	border-left: solid 1px black;
+	border-right: solid 1px black;
+	margin-top: 0px;
+	margin-left: 15%;
+	margin-right: 15%;
+}
+
+div.commentbottom {
+	background-color: #f0f0f0;
+	color: black;
+	font: 0.9em Verdana, Arial, Helvetica;
+	padding: 3pt;
+	border-bottom: solid 1px black;
+	border-left: solid 1px black;
+	border-right: solid 1px black;
+	margin-left: 15%;
+	margin-right: 15%;
+	margin-top: 0px;
+}
+
+div.subtext {
+	font: 8pt Verdana, Arial, Helvetica;
+	clear: left;
+}
+
+#recentupdates {
+	float: right;
+	display: inline;
+	width: 19%;
+	background-color: #e0e0e0;
+	color: black;
+	border: dashed 1px #202020;
+	padding: 5px;
+	margin-right: 0.2cm;
+	margin-top: 0.2cm;
+	margin-bottom: 0.2cm;
+	margin-left: 0.1in;
+	clear: right;
+}
+
+span.small {
+	font: 8pt Verdana, Arial, Helvetica;
+}
+
+blockquote {
+	font: 8pt Verdana, Arial, Helvetica;
+	margin-left: 3%;
+	margin-right: 4%;
+	padding: 7pt;
+}
+
+div.interview {
+	clear: both;
+	margin-top: 3pt;
+	margin-bottom: 3pt;
+}
+
+div.interview div {
+	position: relative;
+	clear: none;
+	display: inline;
+	padding: 2pt;
+}
+
+div.headshot {
+	background-color: #e0e0e0;
+	color: black;
+	float: left;
+	clear: none;
+	display: inline;
+	padding: 4pt;
+	border: solid 1px black;
+	margin-right: 8pt;
+}
+
+/* ################################################## */
+
+hr.noshow
+{
+	display: none;
+}
+
+/* ################################################## */
+
+#recentupdates ul {
+	display: inline;
+	margin: 0px;
+	padding: 0px;
+}
+
+#linksbox ul {
+	display: inline;
+	padding: 3.5pt;
+}
+
+#linksbox ul li {
+	list-style: square;
+	clear: both;
+	text-align: left;
+	margin-left: 12pt;
+	padding-left: 0px;
+	margin-bottom: 4pt;
+}
+
+#linksbox ul li.firstitem {
+	list-style: square;
+	clear: both;
+	text-align: left;
+	margin-left: 12pt;
+	padding-left: 0px;
+	margin-bottom: 2pt;
+}
+
+#recentupdates ul li {
+	font: 8pt Verdana, Arial, Helvetica;
+	clear: both;
+	text-align: left;
+	list-style: none;
+	margin-left: 4px;
+	padding-left: 0px;
+}
+
+#recentupdates ul li.firstitem {
+	font: 8pt Verdana, Arial, Helvetica;
+	clear: both;
+	text-align: left;
+	list-style: none;
+	margin-left: 4px;
+	padding-left: 0px;
+}
+
+ul.navmenu {
+	margin-top: 1pt;
+	margin-left: 30%;
+	margin-bottom: 1pt;
+	clear: left;
+}
+
+li.navitem, li.firstnavitem {
+	display: inline;
+	list-style-type: none;
+	padding-left: 6pt;
+	padding-right: 3pt;
+	border-left: solid 1px white;
+	clear: none;
+}
+
+li.firstnavitem {
+	padding-left: 3pt;
+	border-left: none;
+}
+
+/* ################################################## */
+
+table {
+	border: solid 1px black;
+}
+
+td {
+	padding: 1.5pt;
+}
+
+td.extrapadding {
+	padding: 2.5pt;
+}
+
+th {
+	background-color: #1f9599;
+	color: white;
+	font-weight: bold;
+	text-align: center;
+	padding: 1pt;
+}
+
+th.leftheading {
+	padding-left: 6pt;
+	text-align: left;
+}
+
+td.alt1 {
+	background-color: white;
+	color: black;
+}
+
+td.alt2 {
+	background-color: #f0f0f0;
+	color: black;
+}
+
+td.centered {
+	text-align: center;
+}
+
+/* ################################################## */
+
+input, select, textarea {
+	background-color: white;
+	color: black;
+	font: 8pt Verdana, Arial, Helvetica;
+}
+
+textarea {
+	padding: 2px;
+}
+
+input.box {
+	background-color: transparent;
+	color: black;
+}
+
+input.button {
+	background-color: #d0d0d0;
+	color: black;
+	padding-left: 8px;
+	padding-right: 8px;
+}

@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /manager/
+Disallow: /comments/post/
+Disallow: /feeds/rss
+Disallow: /feeds/atom
+Request-rate: 1/5

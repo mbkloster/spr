@@ -1,0 +1,102 @@
+/*
+	Senseless Political Ramblings
+	Default Site CSS
+	Copyright © 2006 Senseless Political Ramblings
+	The copying or use of this stylesheet or its attributes
+	is forbidden without written permission.
+*/
+
+body {
+	background-color: #ffffff;
+	color: #000000;
+	font: 10pt Verdana, Arial, Helvetica;
+	padding: 2px;
+}
+
+/* ################################################## */
+
+a:link, a:visited {
+	background-color: transparent;
+	color: #0000ff;
+	text-decoration: underline;
+}
+
+a:hover {
+	background-color: transparent;
+	color: #0000ff;
+	text-decoration: none;
+}
+
+a:active {
+	background-color: transparent;
+	color: #ff0000;
+	text-decoration: none;
+}
+
+/* ################################################## */
+
+.l {
+	display: compact;
+	float: left;
+}
+.r {
+	display: inline;
+	float: right;
+	margin-left: 0.1in;
+}
+
+div.small {
+	font: 8pt Verdana, Arial, Helvetica;
+}
+
+span.small {
+	font: 8pt Verdana, Arial, Helvetica;
+}
+
+span.timestamp {
+	background-color: none;
+	color: #828282;
+}
+
+/* ################################################## */
+
+table {
+	border: solid 1px #000000;
+	margin-bottom: 4.5pt;
+	margin-top: 4.5pt;
+}
+
+td {
+	padding: 2px;
+}
+
+th {
+	background-color: #e0e0e0;
+	color: #000000;
+	font-weight: bold;
+	text-align: center;
+}
+
+/* ################################################## */
+
+input, select, textarea {
+	background-color: #ffffff;
+	color: #000000;
+	font: 8pt Verdana, Arial, Helvetica;
+}
+
+textarea {
+	padding: 3px;
+}
+
+input.box {
+	background-color: transparent;
+	color: #000000;
+}
+
+input.button {
+	background-color: #d0d0d0;
+	color: #000000;
+	padding-left: 8px;
+	padding-right: 8px;
+}

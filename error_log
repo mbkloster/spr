@@ -1,0 +1,30 @@
+[29-Mar-2006 22:10:31] PHP Parse error:  parse error, unexpected T_CONCAT_EQUAL in /home/sense/public_html/pw.php on line 4
+[05-Apr-2006 21:02:01] PHP Parse error:  parse error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/sense/public_html/include/options.php on line 36
+[06-Apr-2006 17:31:20] PHP Parse error:  parse error, unexpected T_VARIABLE, expecting ',' or ';' in /home/sense/public_html/include/include.php on line 108
+[26-Jun-2006 22:24:07] PHP Parse error:  syntax error, unexpected ';' in /home/sense/public_html/include/include.php on line 22
+[26-Jun-2006 22:25:23] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sense/public_html/include/include.php:17) in /home/sense/public_html/include/include.php on line 23
+[26-Jun-2006 22:26:48] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sense/public_html/include/include.php:17) in /home/sense/public_html/include/include.php on line 23
+[26-Jun-2006 22:27:00] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sense/public_html/include/include.php:17) in /home/sense/public_html/include/include.php on line 23
+[26-Jun-2006 22:27:07] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sense/public_html/include/include.php:17) in /home/sense/public_html/include/include.php on line 23
+[26-Jun-2006 22:27:16] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sense/public_html/include/include.php:17) in /home/sense/public_html/include/include.php on line 23
+[26-Jun-2006 22:27:56] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sense/public_html/include/include.php:17) in /home/sense/public_html/include/include.php on line 23
+[26-Jun-2006 22:28:01] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sense/public_html/include/include.php:17) in /home/sense/public_html/include/include.php on line 23
+[26-Jun-2006 22:35:29] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sense/public_html/include/include.php:30) in /home/sense/public_html/include/include.php on line 31
+[30-Jun-2006 18:00:59] PHP Parse error:  syntax error, unexpected ';' in /home/sense/public_html/index.php on line 62
+[30-Jun-2006 18:01:29] PHP Warning:  preg_replace(): No ending delimiter '/' found in /home/sense/public_html/index.php on line 61
+[30-Jun-2006 18:01:29] PHP Warning:  preg_replace(): No ending delimiter '/' found in /home/sense/public_html/index.php on line 61
+[30-Jun-2006 18:01:29] PHP Warning:  preg_replace(): No ending delimiter '/' found in /home/sense/public_html/index.php on line 61
+[30-Jun-2006 18:01:29] PHP Warning:  preg_replace(): No ending delimiter '/' found in /home/sense/public_html/index.php on line 61
+[30-Jun-2006 18:01:29] PHP Warning:  preg_replace(): No ending delimiter '/' found in /home/sense/public_html/index.php on line 61
+[30-Jun-2006 18:01:29] PHP Warning:  preg_replace(): No ending delimiter '/' found in /home/sense/public_html/index.php on line 61
+[30-Jun-2006 18:01:29] PHP Warning:  preg_replace(): No ending delimiter '/' found in /home/sense/public_html/index.php on line 61
+[30-Jun-2006 18:01:29] PHP Warning:  preg_replace(): No ending delimiter '/' found in /home/sense/public_html/index.php on line 61
+[30-Jun-2006 18:01:29] PHP Warning:  preg_replace(): No ending delimiter '/' found in /home/sense/public_html/index.php on line 61
+[30-Jun-2006 18:01:29] PHP Warning:  preg_replace(): No ending delimiter '/' found in /home/sense/public_html/index.php on line 61
+[30-Jun-2006 18:01:29] PHP Warning:  preg_replace(): No ending delimiter '/' found in /home/sense/public_html/index.php on line 61
+[30-Jun-2006 18:01:29] PHP Warning:  preg_replace(): No ending delimiter '/' found in /home/sense/public_html/index.php on line 61
+[30-Jun-2006 18:01:29] PHP Warning:  preg_replace(): No ending delimiter '/' found in /home/sense/public_html/index.php on line 61
+[30-Jun-2006 18:01:29] PHP Warning:  preg_replace(): No ending delimiter '/' found in /home/sense/public_html/index.php on line 61
+[10-Feb-2007 07:47:50] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/sense/public_html/download.php on line 32
+[10-Feb-2007 07:54:37] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sense/public_html/download.php:34) in /home/sense/public_html/download.php on line 41
+[10-Feb-2007 07:54:52] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sense/public_html/download.php:34) in /home/sense/public_html/download.php on line 41

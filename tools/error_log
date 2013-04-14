@@ -1,0 +1,118 @@
+[25-Jun-2006 00:38:29] PHP Fatal error:  Call to undefined function:  complete_str_replace() in /home/sense/public_html/tools/ALGEBRA.php on line 42
+[25-Jun-2006 00:38:38] PHP Fatal error:  Call to undefined function:  complete_str_replace() in /home/sense/public_html/tools/ALGEBRA.php on line 42
+[25-Jun-2006 00:43:49] PHP Parse error:  syntax error, unexpected '{' in /home/sense/public_html/tools/ALGEBRA.php on line 37
+[25-Jun-2006 01:44:23] PHP Parse error:  syntax error, unexpected ';' in /home/sense/public_html/tools/ALGEBRA.php on line 85
+[25-Jun-2006 02:26:11] PHP Warning:  Division by zero in /home/sense/public_html/tools/ALGEBRA.php(99) : eval()'d code on line 1
+[25-Jun-2006 02:26:18] PHP Warning:  Division by zero in /home/sense/public_html/tools/ALGEBRA.php(99) : eval()'d code on line 1
+[25-Jun-2006 02:26:34] PHP Warning:  Division by zero in /home/sense/public_html/tools/ALGEBRA.php(99) : eval()'d code on line 1
+[25-Jun-2006 03:49:14] PHP Warning:  is_nan() expects parameter 1 to be double, string given in /home/sense/public_html/tools/ALGEBRA.php on line 100
+[25-Jun-2006 03:49:14] PHP Warning:  is_nan() expects parameter 1 to be double, string given in /home/sense/public_html/tools/ALGEBRA.php on line 100
+[25-Jun-2006 03:49:14] PHP Warning:  is_nan() expects parameter 1 to be double, string given in /home/sense/public_html/tools/ALGEBRA.php on line 100
+[25-Jun-2006 03:49:14] PHP Warning:  is_nan() expects parameter 1 to be double, string given in /home/sense/public_html/tools/ALGEBRA.php on line 100
+[25-Jun-2006 03:49:35] PHP Warning:  is_nan() expects parameter 1 to be double, string given in /home/sense/public_html/tools/ALGEBRA.php on line 100
+[25-Jun-2006 03:49:35] PHP Warning:  is_nan() expects parameter 1 to be double, string given in /home/sense/public_html/tools/ALGEBRA.php on line 100
+[25-Jun-2006 03:49:35] PHP Warning:  is_nan() expects parameter 1 to be double, string given in /home/sense/public_html/tools/ALGEBRA.php on line 100
+[25-Jun-2006 03:49:35] PHP Warning:  is_nan() expects parameter 1 to be double, string given in /home/sense/public_html/tools/ALGEBRA.php on line 100
+[25-Jun-2006 04:15:44] PHP Parse error:  syntax error, unexpected '[' in /home/sense/public_html/tools/ALGEBRA.php(113) : eval()'d code on line 1
+[25-Jun-2006 04:23:55] PHP Parse error:  syntax error, unexpected ')' in /home/sense/public_html/tools/ALGEBRA.php(118) : eval()'d code on line 1
+[25-Jun-2006 04:43:36] PHP Parse error:  syntax error, unexpected T_LNUMBER in /home/sense/public_html/tools/ALGEBRA.php(118) : eval()'d code on line 1
+[25-Jun-2006 04:48:39] PHP Parse error:  syntax error, unexpected T_LNUMBER in /home/sense/public_html/tools/ALGEBRA.php(138) : eval()'d code on line 1
+[25-Jun-2006 04:55:02] PHP Parse error:  syntax error, unexpected T_LNUMBER in /home/sense/public_html/tools/ALGEBRA.php(140) : eval()'d code on line 1
+[25-Jun-2006 05:06:23] PHP Parse error:  syntax error, unexpected '(' in /home/sense/public_html/tools/ALGEBRA.php(141) : eval()'d code on line 1
+[25-Jun-2006 05:06:51] PHP Parse error:  syntax error, unexpected '(' in /home/sense/public_html/tools/ALGEBRA.php(141) : eval()'d code on line 1
+[25-Jun-2006 05:09:01] PHP Parse error:  syntax error, unexpected '(' in /home/sense/public_html/tools/ALGEBRA.php(141) : eval()'d code on line 1
+[25-Jun-2006 05:09:28] PHP Parse error:  syntax error, unexpected '(' in /home/sense/public_html/tools/ALGEBRA.php(141) : eval()'d code on line 1
+[25-Jun-2006 05:10:13] PHP Parse error:  syntax error, unexpected '(' in /home/sense/public_html/tools/ALGEBRA.php(141) : eval()'d code on line 1
+[25-Jun-2006 05:10:50] PHP Parse error:  syntax error, unexpected '(' in /home/sense/public_html/tools/ALGEBRA.php(141) : eval()'d code on line 1
+[25-Jun-2006 05:11:08] PHP Parse error:  syntax error, unexpected '(' in /home/sense/public_html/tools/ALGEBRA.php(141) : eval()'d code on line 1
+[25-Jun-2006 05:11:19] PHP Parse error:  syntax error, unexpected '(' in /home/sense/public_html/tools/ALGEBRA.php(141) : eval()'d code on line 1
+[25-Jun-2006 05:11:47] PHP Parse error:  syntax error, unexpected '(' in /home/sense/public_html/tools/ALGEBRA.php(159) : eval()'d code on line 1
+[25-Jun-2006 05:13:57] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/sense/public_html/tools/ALGEBRA.php on line 62
+[25-Jun-2006 05:14:04] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/sense/public_html/tools/ALGEBRA.php on line 62
+[25-Jun-2006 05:50:19] PHP Parse error:  syntax error, unexpected ')' in /home/sense/public_html/tools/ALGEBRA.php(141) : eval()'d code on line 1
+[25-Jun-2006 05:50:30] PHP Parse error:  syntax error, unexpected ')' in /home/sense/public_html/tools/ALGEBRA.php(141) : eval()'d code on line 1
+[25-Jun-2006 05:51:46] PHP Parse error:  syntax error, unexpected ',' in /home/sense/public_html/tools/ALGEBRA.php on line 153
+[25-Jun-2006 05:52:11] PHP Parse error:  syntax error, unexpected ')' in /home/sense/public_html/tools/ALGEBRA.php(141) : eval()'d code on line 1
+[25-Jun-2006 06:36:30] PHP Parse error:  syntax error, unexpected '+', expecting T_VARIABLE or '$' in /home/sense/public_html/tools/ALGEBRA.php(142) : eval()'d code on line 1
+[25-Jun-2006 06:42:59] PHP Parse error:  syntax error, unexpected ')' in /home/sense/public_html/tools/ALGEBRA.php(145) : eval()'d code on line 1
+[25-Jun-2006 19:37:35] PHP Parse error:  syntax error, unexpected T_IF in /home/sense/public_html/tools/ALGEBRA.php on line 138
+[25-Jun-2006 19:38:59] PHP Parse error:  syntax error, unexpected T_DNUMBER in /home/sense/public_html/tools/ALGEBRA.php(146) : eval()'d code on line 1
+[25-Jun-2006 19:47:38] PHP Warning:  preg_replace(): Compilation failed: unmatched parentheses at offset 12 in /home/sense/public_html/tools/ALGEBRA.php on line 138
+[25-Jun-2006 19:47:38] PHP Warning:  preg_replace(): Compilation failed: unmatched parentheses at offset 12 in /home/sense/public_html/tools/ALGEBRA.php on line 138
+[25-Jun-2006 19:47:41] PHP Warning:  preg_replace(): Compilation failed: unmatched parentheses at offset 12 in /home/sense/public_html/tools/ALGEBRA.php on line 138
+[25-Jun-2006 19:47:41] PHP Warning:  preg_replace(): Compilation failed: unmatched parentheses at offset 12 in /home/sense/public_html/tools/ALGEBRA.php on line 138
+[25-Jun-2006 19:48:11] PHP Warning:  preg_replace(): Compilation failed: unmatched parentheses at offset 12 in /home/sense/public_html/tools/ALGEBRA.php on line 138
+[25-Jun-2006 19:48:11] PHP Warning:  preg_replace(): Compilation failed: unmatched parentheses at offset 12 in /home/sense/public_html/tools/ALGEBRA.php on line 138
+[25-Jun-2006 19:48:26] PHP Warning:  preg_replace(): Compilation failed: unmatched parentheses at offset 11 in /home/sense/public_html/tools/ALGEBRA.php on line 138
+[25-Jun-2006 19:48:26] PHP Warning:  preg_replace(): Compilation failed: unmatched parentheses at offset 11 in /home/sense/public_html/tools/ALGEBRA.php on line 138
+[25-Jun-2006 19:50:45] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/sense/public_html/tools/ALGEBRA.php(147) : eval()'d code on line 1
+[25-Jun-2006 19:51:11] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/sense/public_html/tools/ALGEBRA.php(148) : eval()'d code on line 1
+[25-Jun-2006 19:51:45] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/sense/public_html/tools/ALGEBRA.php(148) : eval()'d code on line 1
+[25-Jun-2006 19:52:00] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/sense/public_html/tools/ALGEBRA.php(148) : eval()'d code on line 1
+[25-Jun-2006 19:52:59] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home/sense/public_html/tools/ALGEBRA.php on line 139
+[25-Jun-2006 19:52:59] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home/sense/public_html/tools/ALGEBRA.php on line 139
+[25-Jun-2006 19:52:59] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home/sense/public_html/tools/ALGEBRA.php on line 139
+[25-Jun-2006 19:52:59] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home/sense/public_html/tools/ALGEBRA.php on line 139
+[25-Jun-2006 19:52:59] PHP Parse error:  syntax error, unexpected '.' in /home/sense/public_html/tools/ALGEBRA.php on line 139
+[25-Jun-2006 19:53:10] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/sense/public_html/tools/ALGEBRA.php(150) : eval()'d code on line 1
+[25-Jun-2006 19:53:34] PHP Parse error:  syntax error, unexpected ')' in /home/sense/public_html/tools/ALGEBRA.php(150) : eval()'d code on line 1
+[25-Jun-2006 19:53:43] PHP Parse error:  syntax error, unexpected ')' in /home/sense/public_html/tools/ALGEBRA.php(150) : eval()'d code on line 1
+[25-Jun-2006 19:53:45] PHP Parse error:  syntax error, unexpected ')' in /home/sense/public_html/tools/ALGEBRA.php(150) : eval()'d code on line 1
+[25-Jun-2006 19:53:53] PHP Parse error:  syntax error, unexpected ')' in /home/sense/public_html/tools/ALGEBRA.php(150) : eval()'d code on line 1
+[25-Jun-2006 20:31:19] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/sense/public_html/tools/ALGEBRA.php on line 59
+[25-Jun-2006 21:40:15] PHP Parse error:  syntax error, unexpected ',' in /home/sense/public_html/tools/ALGEBRA.php(152) : eval()'d code on line 1
+[25-Jun-2006 21:44:47] PHP Parse error:  syntax error, unexpected ',' in /home/sense/public_html/tools/ALGEBRA.php(152) : eval()'d code on line 1
+[25-Jun-2006 21:55:03] PHP Parse error:  syntax error, unexpected '^' in /home/sense/public_html/tools/ALGEBRA.php(150) : eval()'d code on line 1
+[25-Jun-2006 22:06:19] PHP Parse error:  syntax error, unexpected T_DEC, expecting T_VARIABLE or '$' in /home/sense/public_html/tools/ALGEBRA.php(154) : eval()'d code on line 1
+[25-Jun-2006 22:07:17] PHP Parse error:  syntax error, unexpected ')', expecting T_VARIABLE or '$' in /home/sense/public_html/tools/ALGEBRA.php(154) : eval()'d code on line 1
+[25-Jun-2006 22:12:46] PHP Parse error:  syntax error, unexpected '*' in /home/sense/public_html/tools/ALGEBRA.php(154) : eval()'d code on line 1
+[25-Jun-2006 22:14:34] PHP Parse error:  syntax error, unexpected '*' in /home/sense/public_html/tools/ALGEBRA.php(155) : eval()'d code on line 1
+[25-Jun-2006 22:15:22] PHP Parse error:  syntax error, unexpected ')' in /home/sense/public_html/tools/ALGEBRA.php(155) : eval()'d code on line 1
+[25-Jun-2006 22:17:04] PHP Parse error:  syntax error, unexpected T_STRING in /home/sense/public_html/tools/ALGEBRA.php on line 108
+[26-Jun-2006 22:33:15] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sense/public_html/include/include.php:30) in /home/sense/public_html/include/include.php on line 31
+[26-Jun-2006 22:33:28] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sense/public_html/include/include.php:30) in /home/sense/public_html/include/include.php on line 31
+[26-Jun-2006 22:33:45] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sense/public_html/include/include.php:30) in /home/sense/public_html/include/include.php on line 31
+[26-Jun-2006 22:34:00] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sense/public_html/include/include.php:30) in /home/sense/public_html/include/include.php on line 31
+[26-Jun-2006 22:34:50] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sense/public_html/include/include.php:30) in /home/sense/public_html/include/include.php on line 31
+[03-Sep-2006 01:09:51] PHP Parse error:  syntax error, unexpected ',' in /home/sense/public_html/tools/ALGEBRA.php(163) : eval()'d code on line 1
+[03-Sep-2006 01:10:03] PHP Parse error:  syntax error, unexpected ',' in /home/sense/public_html/tools/ALGEBRA.php(163) : eval()'d code on line 1
+[03-Sep-2006 01:11:13] PHP Parse error:  syntax error, unexpected ',' in /home/sense/public_html/tools/ALGEBRA.php(163) : eval()'d code on line 1
+[03-Sep-2006 01:11:24] PHP Parse error:  syntax error, unexpected ',' in /home/sense/public_html/tools/ALGEBRA.php(163) : eval()'d code on line 1
+[03-Sep-2006 01:11:31] PHP Parse error:  syntax error, unexpected ',' in /home/sense/public_html/tools/ALGEBRA.php(163) : eval()'d code on line 1
+[03-Sep-2006 01:13:05] PHP Parse error:  syntax error, unexpected ',' in /home/sense/public_html/tools/ALGEBRA.php(163) : eval()'d code on line 1
+[03-Sep-2006 01:13:19] PHP Parse error:  syntax error, unexpected ',' in /home/sense/public_html/tools/ALGEBRA.php(163) : eval()'d code on line 1
+[03-Sep-2006 01:22:25] PHP Parse error:  syntax error, unexpected ',' in /home/sense/public_html/tools/ALGEBRA.php(163) : eval()'d code on line 1
+[03-Sep-2006 01:22:38] PHP Parse error:  syntax error, unexpected ',' in /home/sense/public_html/tools/ALGEBRA.php(163) : eval()'d code on line 1
+[03-Sep-2006 01:23:21] PHP Parse error:  syntax error, unexpected ',' in /home/sense/public_html/tools/ALGEBRA.php(163) : eval()'d code on line 1
+[03-Sep-2006 01:23:56] PHP Parse error:  syntax error, unexpected ',' in /home/sense/public_html/tools/ALGEBRA.php(163) : eval()'d code on line 1
+[03-Sep-2006 01:24:19] PHP Parse error:  syntax error, unexpected ',' in /home/sense/public_html/tools/ALGEBRA.php(163) : eval()'d code on line 1
+[03-Sep-2006 01:24:29] PHP Parse error:  syntax error, unexpected ',' in /home/sense/public_html/tools/ALGEBRA.php(163) : eval()'d code on line 1
+[03-Sep-2006 01:24:43] PHP Parse error:  syntax error, unexpected ',' in /home/sense/public_html/tools/ALGEBRA.php(163) : eval()'d code on line 1
+[03-Sep-2006 01:25:30] PHP Parse error:  syntax error, unexpected ',' in /home/sense/public_html/tools/ALGEBRA.php(163) : eval()'d code on line 1
+[03-Sep-2006 01:26:27] PHP Parse error:  syntax error, unexpected ',' in /home/sense/public_html/tools/ALGEBRA.php(163) : eval()'d code on line 1
+[03-Sep-2006 01:28:46] PHP Parse error:  syntax error, unexpected ',' in /home/sense/public_html/tools/ALGEBRA.php(164) : eval()'d code on line 1
+[03-Sep-2006 01:29:20] PHP Parse error:  syntax error, unexpected ',' in /home/sense/public_html/tools/ALGEBRA.php(164) : eval()'d code on line 1
+[03-Sep-2006 01:30:35] PHP Parse error:  syntax error, unexpected ',' in /home/sense/public_html/tools/ALGEBRA.php(164) : eval()'d code on line 1
+[03-Sep-2006 01:30:42] PHP Parse error:  syntax error, unexpected ',' in /home/sense/public_html/tools/ALGEBRA.php(164) : eval()'d code on line 1
+[03-Sep-2006 01:30:46] PHP Parse error:  syntax error, unexpected ',' in /home/sense/public_html/tools/ALGEBRA.php(164) : eval()'d code on line 1
+[03-Sep-2006 01:31:00] PHP Parse error:  syntax error, unexpected ',' in /home/sense/public_html/tools/ALGEBRA.php(164) : eval()'d code on line 1
+[03-Sep-2006 01:31:08] PHP Parse error:  syntax error, unexpected ',' in /home/sense/public_html/tools/ALGEBRA.php(164) : eval()'d code on line 1
+[03-Sep-2006 01:31:32] PHP Parse error:  syntax error, unexpected ',' in /home/sense/public_html/tools/ALGEBRA.php(164) : eval()'d code on line 1
+[03-Sep-2006 01:32:09] PHP Parse error:  syntax error, unexpected ',' in /home/sense/public_html/tools/ALGEBRA.php(164) : eval()'d code on line 1
+[03-Sep-2006 01:32:20] PHP Parse error:  syntax error, unexpected ',' in /home/sense/public_html/tools/ALGEBRA.php(164) : eval()'d code on line 1
+[03-Sep-2006 01:32:33] PHP Parse error:  syntax error, unexpected ',' in /home/sense/public_html/tools/ALGEBRA.php(164) : eval()'d code on line 1
+[03-Sep-2006 01:32:43] PHP Parse error:  syntax error, unexpected ',' in /home/sense/public_html/tools/ALGEBRA.php(164) : eval()'d code on line 1
+[03-Sep-2006 01:32:53] PHP Parse error:  syntax error, unexpected ',' in /home/sense/public_html/tools/ALGEBRA.php(164) : eval()'d code on line 1
+[03-Sep-2006 01:34:43] PHP Parse error:  syntax error, unexpected ',' in /home/sense/public_html/tools/ALGEBRA.php(164) : eval()'d code on line 1
+[03-Sep-2006 01:45:50] PHP Parse error:  syntax error, unexpected ',' in /home/sense/public_html/tools/ALGEBRA.php(164) : eval()'d code on line 1
+[03-Sep-2006 01:46:02] PHP Parse error:  syntax error, unexpected ',' in /home/sense/public_html/tools/ALGEBRA.php(164) : eval()'d code on line 1
+[03-Sep-2006 01:46:11] PHP Parse error:  syntax error, unexpected ',' in /home/sense/public_html/tools/ALGEBRA.php(164) : eval()'d code on line 1
+[03-Sep-2006 01:46:20] PHP Parse error:  syntax error, unexpected ',' in /home/sense/public_html/tools/ALGEBRA.php(164) : eval()'d code on line 1
+[03-Sep-2006 01:46:32] PHP Parse error:  syntax error, unexpected ',' in /home/sense/public_html/tools/ALGEBRA.php(164) : eval()'d code on line 1
+[03-Sep-2006 01:46:38] PHP Parse error:  syntax error, unexpected ',' in /home/sense/public_html/tools/ALGEBRA.php(164) : eval()'d code on line 1
+[03-Sep-2006 01:46:43] PHP Parse error:  syntax error, unexpected ',' in /home/sense/public_html/tools/ALGEBRA.php(164) : eval()'d code on line 1
+[03-Sep-2006 02:13:30] PHP Parse error:  syntax error, unexpected ',' in /home/sense/public_html/tools/ALGEBRA.php(164) : eval()'d code on line 1
+[03-Sep-2006 08:49:07] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/sense/public_html/tools/LOOKUP.php on line 35
+[12-Feb-2007 01:15:23] PHP Parse error:  syntax error, unexpected ',' in /home/sense/public_html/tools/ALGEBRA.php(164) : eval()'d code on line 1
+[12-Feb-2007 01:16:11] PHP Parse error:  syntax error, unexpected ',' in /home/sense/public_html/tools/ALGEBRA.php(164) : eval()'d code on line 1
+[12-Feb-2007 01:16:25] PHP Parse error:  syntax error, unexpected ',' in /home/sense/public_html/tools/ALGEBRA.php(164) : eval()'d code on line 1
